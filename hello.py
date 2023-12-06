@@ -1,3 +1,3 @@
 print("making an new dir and")
-print("adding file in github")
-print("adding new feature and merging it")
+age=int(input("Enter your age:"))
+print("your age", age)
